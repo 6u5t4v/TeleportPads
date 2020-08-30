@@ -1,0 +1,147 @@
+lang:
+  settings: "Teleport Pad Settings"
+  destination: "Set Destination"
+  color: "Set Color"
+  goback: "&aGo Back"
+  close: "&cClose"
+  pickup: "&aPickup Teleport Pad"
+  pickup2: "&eClick to pickup!"
+  destination2: "&aChange Destination"
+  direction: "&aChange Teleport Direction"
+  color2: "&aChange Color"
+  rename: "&aRename Pad"
+  nocustomname: "&cNo custom name!"
+  nodestination: "&cNo destination!"
+
+  warpto: "&aWarp To"
+
+  name: "&aTeleport Pad"
+  lore:
+    - "&7Places a Teleport Pad down,"
+    - "&7allowing you to teleport to any"
+    - "&7other Teleport Pad on your"
+    - "&7private island!"
+    - "&8Maximum of 12 per island."
+    - ""
+    - "&a&lUNCOMMON"
+
+
+
+  red: "&cRed"
+  yellow: "&eYellow"
+  lime: "&aLime"
+  blue: "&9Blue"
+  magenta: "&dMagenta"
+  orange: "&6Orange"
+  gray: "&7Gray"
+  white: "&fWhite"
+  green: "&2Green"
+  aqua: "&bAqua"
+  purple: "&5Purple"
+  black: "&8Black"
+
+  playerdir: "&aPlayer Direction"
+  north: "&aNorth"
+  northeast: "&aNorth East"
+  east: "&aEast"
+  southeast: "&aSouth East"
+  south: "&aSouth"
+  southwest: "&aSouth West"
+  west: "&aWest"
+  northwest: "&aNorth West"
+
+  destinationlore:
+    - "&7Click to set the Teleport"
+    - "&7Pad's destination!"
+    - ""
+    - "&7Current Destination:"
+    - "&f{DEST}"
+    - ""
+    - "&eClick to change!"
+
+  directionlore:
+    - "&7Change the direction you"
+    - "&7are facing when you"
+    - "&7teleport to this Teleport"
+    - "&7Pad!"
+    - ""
+    - "&7Current Direction:"
+    - "&a{DIR}"
+    - ""
+    - "&eClick to change!"
+
+  colorlore:
+    - "&7Click to set the Teleport"
+    - "&7Pad's color!"
+    - ""
+    - "&7Current Color:"
+    - "{COL}"
+    - ""
+    - "&eClick to change!"
+
+  renamelore:
+    - "&7Change its name to"
+    - "&7something fancy!"
+    - ""
+    - "&7Custom Name:"
+    - "&f{NAME}"
+    - ""
+    - "&eClick to change!"
+
+  alreadytaken:
+    - "&7Click to set the Teleport"
+    - "&7Pad's color!"
+    - ""
+    - "&cThere is already a"
+    - "&cTeleport Pad on this island"
+    - "&cset to this color!"
+
+  colorselected:
+    - "&7Click to set the Teleport"
+    - "&7Pad's color to {COL}&7!"
+    - ""
+    - "&aSELECTED!"
+
+  colorchange:
+    - "&7Click to set the Teleport"
+    - "&7Pad's color to {COL}&7!"
+    - ""
+    - "&eClick to change!"
+
+  destcannotbesame:
+    - "&7Click to set the Teleport"
+    - "&7Pad's destination!"
+    - ""
+    - "&cThe destination cannot be"
+    - "&cthe same Teleport Pad!"
+
+  isntone:
+    - "&7Click to set the Teleport"
+    - "&7Pad's destination!"
+    - ""
+    - "&cThere isn't a Teleport"
+    - "&cPad with this color on this"
+    - "&cisland!"
+
+  destchange:
+    - "&7Click to set the Teleport"
+    - "&7Pad's destination to"
+    - "{COL}&7!"
+    - ""
+    - "&eClick to change!"
+
+  destchangewithname:
+    - "&7Click to set the Teleport"
+    - "&7Pad's destination to"
+    - "{COL}&7!"
+    - ""
+    - "&7Custom Name: &f{NAME}"
+    - ""
+    - "&eClick to change!"
+
+  destselected:
+    - "&7Click to set the Teleport"
+    - "&7Pad's destination to"
+    - "{COL}&7!"
+    - ""
+    - "&aSELECTED!"

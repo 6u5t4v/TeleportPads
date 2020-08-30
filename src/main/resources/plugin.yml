@@ -1,0 +1,7 @@
+name: Teleportpads
+version: 1.0
+main: me.g6u5t4v.teleportpads.Main
+softdepend: [ HolographicDisplays ]
+
+commands:
+  teleportpad:
